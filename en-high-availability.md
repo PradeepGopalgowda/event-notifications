@@ -2,7 +2,7 @@
 
 copyright:
   years: 2021, 2024
-lastupdated: "2024-10-10"
+lastupdated: "2024-12-20"
 
 keywords: HA for Event Notifications, high availability for Event Notifications, Event Notifications, disaster recovery
 
@@ -46,10 +46,13 @@ The following table lists the high-availability (HA) status for the regions (loc
 | Geography| Region| HA Status |
 |----------|-------|-----------|
 | Asia-Pacific| Sydney (au-syd)|MZR|
+| Asia-Pacific| Tokyo (jp-tok)|MZR|
+| Asia-Pacific| Osaka (jp-osa)|MZR|
 | Europe | London (eu-gb)|MZR|
 | Europe | Frankfurt (eu-de)|MZR|
 | Europe | Madrid (eu-es)|MZR|
 | North America| Dallas (us-south)|MZR|
+| North America| Toronto (ca-tor)|MZR|
 
 {: caption="HA status for the regions" caption-side="bottom"}
 
